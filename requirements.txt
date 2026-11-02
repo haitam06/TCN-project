@@ -1,0 +1,12 @@
+docopt==0.6.2
+iniconfig==2.3.1
+num2words==0.5.14
+numpy==2.5.4
+packaging==26.3
+pandas==3.1.0
+pluggy==1.7.0
+Pygments==2.21.0
+pytest==9.2.0
+python-dateutil==4.0.0
+tzdata==2026.6
+word2number==1.1
