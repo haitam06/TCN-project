@@ -1,0 +1,15 @@
+id,lang,type,text,numbers
+1,fr,entier,"Il y a 1500 étudiants dans l'école.",1500
+2,fr,entier_espace,"La ville compte 1 250 000 habitants.",1250000
+3,fr,decimal,"Le prix est de 3,14 euros.",3.14
+4,fr,pourcentage,"Le taux de réussite est de 15 %.",15
+5,fr,lettres,"Il a quatre-vingt-dix-sept ans.",97
+6,fr,lettres,"Elle a acheté soixante-dix livres.",70
+7,fr,multiple,"Il y a 12 filles et 18 garçons.",12|18
+8,en,entier,"There are 1500 students in the school.",1500
+9,en,entier_virgule,"The city has 1,250,000 inhabitants.",1250000
+10,en,decimal,"The price is 3.14 dollars.",3.14
+11,en,pourcentage,"The success rate is 15%.",15
+12,en,lettres,"He is ninety-seven years old.",97
+13,en,lettres,"She bought seventy books.",70
+14,en,multiple,"There are 12 girls and 18 boys.",12|18
