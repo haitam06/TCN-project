@@ -10,3 +10,6 @@ pytest==9.2.0
 python-dateutil==4.0.0
 tzdata==2026.6
 word2number==1.1
+transformers
+sentencepiece
+sacremoses
