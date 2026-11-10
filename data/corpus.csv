@@ -13,3 +13,83 @@ id,lang,type,text,numbers
 12,en,lettres,"He is ninety-seven years old.",97
 13,en,lettres,"She bought seventy books.",70
 14,en,multiple,"There are 12 girls and 18 boys.",12|18
+15,fr,entier,"Le musée accueille 800 visiteurs par jour.",800
+16,fr,entier,"Le train quitte la gare avec 240 passagers.",240
+17,fr,entier,"Ce livre contient 350 pages.",350
+18,fr,entier_espace,"L'entreprise emploie 12 500 personnes.",12500
+19,fr,entier_espace,"Le stade peut accueillir 45 000 spectateurs.",45000
+20,fr,entier_espace,"Le pays compte 37 000 000 d'habitants.",37000000
+21,fr,decimal,"Le câble mesure 2,5 mètres.",2.5
+22,fr,decimal,"Le litre d'essence coûte 1,85 euro.",1.85
+23,fr,decimal,"Il a couru 10,5 kilomètres ce matin.",10.5
+24,fr,decimal,"La température est de 36,6 degrés.",36.6
+25,fr,decimal,"Elle mesure 1,75 mètre.",1.75
+26,fr,decimal,"Ajoutez 0,75 litre d'eau.",0.75
+27,fr,pourcentage,"Le chômage a baissé de 4 %.",4
+28,fr,pourcentage,"Le taux d'inflation atteint 7,5 %.",7.5
+29,fr,pourcentage,"Environ 60 % des élèves ont réussi.",60
+30,fr,pourcentage,"La batterie est chargée à 85 %.",85
+31,fr,pourcentage,"Les ventes ont augmenté de 12,5 % en un an.",12.5
+32,fr,lettres,"Il a quatre-vingt-un ans.",81
+33,fr,lettres,"Le livre coûte quinze euros.",15
+34,fr,lettres,"Elle a quarante-deux livres.",42
+35,fr,lettres,"Il y a trois cent soixante-cinq jours dans une année.",365
+36,fr,lettres,"Le concert dure deux heures.",2
+37,fr,lettres,"Nous avons cent invités.",100
+38,fr,lettres,"Ce bâtiment a soixante-dix-sept fenêtres.",77
+39,fr,lettres,"Il a gagné mille euros.",1000
+40,fr,lettres_grand,"La ville compte trois millions d'habitants.",3000000
+41,fr,lettres_grand,"Le projet a coûté deux mille trois cents euros.",2300
+42,fr,multiple,"La classe compte 14 filles et 16 garçons.",14|16
+43,fr,multiple,"Le prix passe de 120 euros à 150 euros.",120|150
+44,fr,multiple,"Il a acheté 3 pommes, 5 poires et 12 cerises.",3|5|12
+45,fr,mixte,"Il a 3 chats et deux chiens.",3|2
+46,fr,mixte,"Elle a vingt ans et 2 frères.",20|2
+47,fr,devise,"Ce téléphone coûte 450 €.",450
+48,fr,devise,"Le café coûte 3,50 €.",3.5
+49,fr,devise,"La voiture coûte 18 500 €.",18500
+50,fr,devise,"Il a payé 25 $ pour ce livre.",25
+51,fr,devise,"Le total est de 1 234,56 €.",1234.56
+52,fr,date,"La réunion a lieu le 15/03/2027.",15|3|2027
+53,fr,heure,"Le train part à 14h30.",14|30
+54,fr,annee,"En 1999, il a fondé l'entreprise.",1999
+55,en,entier,"The museum welcomes 800 visitors per day.",800
+56,en,entier,"The train leaves the station with 240 passengers.",240
+57,en,entier,"This book has 350 pages.",350
+58,en,entier_virgule,"The company employs 12,500 people.",12500
+59,en,entier_virgule,"The stadium can hold 45,000 spectators.",45000
+60,en,entier_virgule,"The country has 37,000,000 inhabitants.",37000000
+61,en,decimal,"The cable is 2.5 meters long.",2.5
+62,en,decimal,"A liter of gasoline costs 1.85 euros.",1.85
+63,en,decimal,"He ran 10.5 kilometers this morning.",10.5
+64,en,decimal,"The temperature is 36.6 degrees.",36.6
+65,en,decimal,"She is 1.75 meters tall.",1.75
+66,en,decimal,"Add 0.75 liters of water.",0.75
+67,en,pourcentage,"Unemployment fell by 4%.",4
+68,en,pourcentage,"The inflation rate reaches 7.5%.",7.5
+69,en,pourcentage,"About 60% of the students passed.",60
+70,en,pourcentage,"The battery is 85% charged.",85
+71,en,pourcentage,"Sales increased by 12.5% in one year.",12.5
+72,en,lettres,"He is eighty-one years old.",81
+73,en,lettres,"The book costs fifteen euros.",15
+74,en,lettres,"She has forty-two books.",42
+75,en,lettres,"There are three hundred and sixty-five days in a year.",365
+76,en,lettres,"The concert lasts two hours.",2
+77,en,lettres,"We have one hundred guests.",100
+78,en,lettres,"This building has seventy-seven windows.",77
+79,en,lettres,"He won one thousand euros.",1000
+80,en,lettres_grand,"The city has three million inhabitants.",3000000
+81,en,lettres_grand,"The project cost two thousand three hundred euros.",2300
+82,en,multiple,"The class has 14 girls and 16 boys.",14|16
+83,en,multiple,"The price goes from 120 euros to 150 euros.",120|150
+84,en,multiple,"He bought 3 apples, 5 pears and 12 cherries.",3|5|12
+85,en,mixte,"He has 3 cats and two dogs.",3|2
+86,en,mixte,"She is twenty years old and has 2 brothers.",20|2
+87,en,devise,"This phone costs €450.",450
+88,en,devise,"The coffee costs €3.50.",3.5
+89,en,devise,"The car costs €18,500.",18500
+90,en,devise,"He paid $25 for this book.",25
+91,en,devise,"The total is €1,234.56.",1234.56
+92,en,date,"The meeting is on 03/15/2027.",3|15|2027
+93,en,heure,"The train leaves at 14:30.",14|30
+94,en,annee,"In 1999, he founded the company.",1999
